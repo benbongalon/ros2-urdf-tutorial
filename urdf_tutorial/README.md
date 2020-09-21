@@ -41,7 +41,7 @@ You should see the _urdf_tutorial_ folder that contains the starting files for m
 
 Here is the [URDF file](http://wiki.ros.org/urdf/Tutorials/Using%20urdf%20with%20robot_state_publisher?action=AttachFile&do=get&target=model.xml) for a 7-link model roughly approximating R2-D2. Save it as ~/dev_ws/src/urdf_tutorial/urdf/r2d2.urdf.xml
 
-In order to view the robot in Rviz, save this [Rviz config](https://github.com/benbongalon/ros2-migration/urdf_tutorial/urdf/r2d2.rviz) as ~/dev_ws/src/urdf_tutorial/urdf/r2d2.rviz
+In order to view the robot in Rviz, save this [Rviz config](https://github.com/benbongalon/ros2-migration/blob/master/urdf_tutorial/urdf/r2d2.rviz) as ~/dev_ws/src/urdf_tutorial/urdf/r2d2.rviz
 
 > Note: Both files must be in the subfolder 'urdf'
 
