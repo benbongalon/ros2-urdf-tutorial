@@ -252,3 +252,5 @@ $ rviz2 -d ~/dev_ws/install/urdf_tutorial/share/urdf_tutorial/r2d2.rviz
 ```
 
 > See http://wiki.ros.org/rviz/UserGuide for details on how to use Rviz.
+
+> Note: If you see errors which the message "value is not a valid float", set your locale to 'en_US.UTF-8' as shown in the Installing ROS 2 Guide. ``urdf_parsing`` is known to fail on other locales.
